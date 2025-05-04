@@ -42,9 +42,9 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 - **University of Missouri-Columbia** (Recitation TA)
 
-  * MATH 4700 Advanced Calculus (Spring 2023, Fall 2022, Spring 2022, Fall 2021, Fall 2020, Spring 2020) [<span style="color:Salmon">**Notes**</span>](./assets/files/4700-recitation.pdf)
-  * MATH 7900 Multivariable Calculus (Spring 2023, Spring 2022, Spring 2021, Spring 2019) [<span style="color:Salmon">**Notes**</span>](./assets/files/4900-recitation.pdf)
-  * MATH 4720 Abstract Algebra (Fall 2022)
-  * MATH 1700 Calculus II (Spring 2021, Spring 2020)
-  * MATH 1500 Calculus I (Fall 2019)
-  * MATH 1160 Precalculus (Fall 2018, Spring 2019)
+  * MATH 4700 - Advanced Calculus (Spring 2023, Fall 2022, Spring 2022, Fall 2021, Fall 2020, Spring 2020) [<span style="color:Salmon">**Notes**</span>](./assets/files/4700-recitation.pdf)
+  * MATH 7900 - Multivariable Calculus (Spring 2023, Spring 2022, Spring 2021, Spring 2019) [<span style="color:Salmon">**Notes**</span>](./assets/files/4900-recitation.pdf)
+  * MATH 4720 - Abstract Algebra (Fall 2022)
+  * MATH 1700 - Calculus II (Spring 2021, Spring 2020)
+  * MATH 1500 - Calculus I (Fall 2019)
+  * MATH 1160 - Precalculus (Fall 2018, Spring 2019)
