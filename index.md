@@ -4,20 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Postdoctoral Research Associate at the University of Arizona since August 2023. I received my PhD from University of Missouri-Columbia in May 2023, under the supervision of [Dan Edidin](https://math.missouri.edu/people/faculty/edidin).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algebraic Geometry:** Moduli of curves, Hurwitz spaces, and their Chow rings
+- **Toric Geometry:** Weak Fano toric varieties, Toric quotients
 
-## News
+## Recent Activities
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2025]** 2025 Summer Research Institute in Algebraic Geometry
+- **[May. 2025]** The 2025 AWM Research Symposium, University of Wisconsin-Madison
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
