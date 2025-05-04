@@ -1,7 +1,27 @@
 main:
 
   - title: The $K$-theory of the moduli stacks $\mathcal{M}_2$ and $\overline{\mathcal{M}}_2$
-    authors: Dan Edidin, Zhengning hu
+    authors: Dan Edidin, Zhengning Hu
     conference: manuscripta math. 175, 1063–1084 (2024).
     pdf: https://arxiv.org/abs/2311.12122
-    
+    page: https://doi.org/10.1007/s00229-024-01581-z
+    notes: Published
+
+  - title: The integral Chow rings of the stacks of hyperelliptic Weierstrass points
+    authors: Dan Edidin, Zhengning Hu
+    conference: Michigan Mathematical Journal (2024).
+    pdf: https://arxiv.org/abs/2208.00556
+    notes: Accepted
+
+
+  - title: Chow classes of divisors on stacks of pointed hyperelliptic curves
+    authors: Dan Edidin, Zhengning Hu
+    conference: Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) 25 (2024), no.1, 217–240.
+    pdf: https://arxiv.org/abs/2103.11259
+    page: https://journals.sns.it/index.php/annaliscienze/article/view/5856
+    notes: Published
+  
+  - title: Several problems on moduli stacks of hyperelliptic curves
+    authors: Zhengning Hu
+    conference: PhD thesis (2023).
+    page: https://mospace.umsystem.edu/xmlui/handle/10355/96091
