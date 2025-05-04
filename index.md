@@ -18,7 +18,7 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 ## In preparation
 
-- *Chow Rings of Hurwitz Spaces with Marked Ramification*, (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025.
+- *Chow rings of Hurwitz spaces with marked ramification*, (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025.
 - *Classifying weak Fano toric varieties of Picard rank three*, (joint with Rohan Joshi), 2025. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
 
 ## Publications
