@@ -47,4 +47,4 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
   * MATH 4720 - Abstract Algebra (Fall 2022)
   * MATH 1700 - Calculus II (Spring 2021, Spring 2020)
   * MATH 1500 - Calculus I (Fall 2019)
-  * MATH 1160 - Precalculus (Fall 2018, Spring 2019)
+  * MATH 1160 - Precalculus (Spring 2019, Fall 2018)
