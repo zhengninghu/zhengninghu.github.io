@@ -35,6 +35,10 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: G-VH5W02XWMF
+
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
