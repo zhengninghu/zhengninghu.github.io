@@ -16,12 +16,9 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 - **[July. 2025]** 2025 Summer Research Institute in Algebraic Geometry
 - **[May. 2025]** The 2025 AWM Research Symposium, University of Wisconsin-Madison
 
-## In preparation
-
-- *Classifying weak Fano toric varieties of Picard rank three*, (joint with Rohan Joshi), 2025. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
-
 ## Preprints
 
+- [*Classifying weak Fano toric varieties of Picard rank three*](https://arxiv.org/abs/2506.00715), (joint with Rohan Joshi), 2025. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
 - [*Chow rings of Hurwitz spaces with marked ramification*](https://arxiv.org/abs/2505.04903), (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025.
 
 ## Publications
