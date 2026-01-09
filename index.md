@@ -8,8 +8,8 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 ## Research Interests
 
-- **Algebraic Geometry:** Moduli of curves, Hurwitz spaces, and their Chow rings
-- **Toric Geometry:** Weak Fano toric varieties, Toric quotients
+- **Algebraic Geometry:** Intersection theory on moduli of curves and Hurwitz spaces, Equivariant Algebraic Geometry
+- **Toric Geometry:** Weak Fano toric varieties, nonprojective toric varieties, Chow quotients of toric varieties
 
 ## Recent Activities
 
@@ -24,19 +24,21 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 ## Publications
 
 - [*The $K$-theory of the moduli stacks $\mathcal{M}_2$ and $\overline{\mathcal{M}}_2$*](https://arxiv.org/abs/2311.12122), (joint with Dan Edidin). manuscripta math. 175, 1063–1084 (2024). [<span style="color:Salmon">Journal</span>](https://doi.org/10.1007/s00229-024-01581-z)
-- [*The integral Chow rings of the stacks of hyperelliptic Weierstrass points*](https://arxiv.org/abs/2208.00556), (joint with Dan Edidin). To appear at Michigan Mathematical Journal.
+- [*The integral Chow rings of the stacks of hyperelliptic Weierstrass points*](https://arxiv.org/abs/2208.00556), (joint with Dan Edidin). Michigan Math. J. Advance Publication 1 - 23, 2025. [<span style="color:Salmon">Journal</span>](https://doi.org/10.1307/mmj/20236479)
 - [*Chow classes of divisors on stacks of pointed hyperelliptic curves*](https://arxiv.org/abs/2103.11259), (joint with Dan Edidin). Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) 25 (2024), no.1, 217–240. [<span style="color:Salmon">Journal</span>](https://journals.sns.it/index.php/annaliscienze/article/view/5856)
 - [*Several problems on moduli stacks of hyperelliptic curves*](https://mospace.umsystem.edu/xmlui/handle/10355/96091), PhD thesis (2023).
 
 ## Other writings
 
 - [*A special version of excess intersection formula*](./assets/files/excess_intersection_specialver.pdf), 2025.
+- [*A test family of hyperelliptic curves*](./assets/files/testcurve-hyperelliptic.pdf), 2022.
 
 ## Teaching
 
 - **The University of Arizona** (Instructor)
 
-  * MATH 313 - Introduction to Linear Algebra (Spring 2025, Fall 2024, Spring 2024) [<span style="color:Salmon">Python Assignments</span>](https://github.com/zhengninghu/m313LinearAlgebra_Python)
+  * MATH 313 - Introduction to Linear Algebra (Spring 2026, Fall 2025, Spring 2025, Fall 2024, Spring 2024) [<span style="color:Salmon">Python Assignments</span>](https://github.com/zhengninghu/m313LinearAlgebra_Python)
+  * MATH 195M - Math and SDS Major Colloquium (Fall 2025)
   * MATH 396L - Wildcat Proofs Workshop (Fall 2024)
   * MATH 122B - First Semester Calculus (Fall 2023)
 
