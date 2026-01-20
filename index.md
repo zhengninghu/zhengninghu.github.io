@@ -32,6 +32,7 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 - [*A special version of excess intersection formula*](./assets/files/excess_intersection_specialver.pdf), 2025.
 - [*A test family of hyperelliptic curves*](./assets/files/testcurve-hyperelliptic.pdf), 2022.
+- [*Comprehensive Exam*](./assets/files/comprehensive-exam.pdf), 2022.
 
 ## Teaching
 
