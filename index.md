@@ -8,8 +8,8 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 ## Research Interests
 
-- **Algebraic Geometry:** Intersection theory on moduli of curves and Hurwitz spaces, Equivariant Algebraic Geometry
-- **Toric Geometry:** Weak Fano toric varieties, nonprojective toric varieties, Chow quotients of toric varieties
+- **Algebraic Geometry:** Intersection theory on moduli of curves and Hurwitz spaces, Equivariant Intersection Theory
+- **Toric Geometry:** Weak Fano toric varieties, quasiprojective toric varieties, Chow quotients of toric varieties
 
 ## Recent Activities
 
@@ -19,7 +19,7 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 ## Preprints
 
 - [*Classifying weak Fano toric varieties of Picard rank three*](https://arxiv.org/abs/2506.00715), (joint with Rohan Joshi), 2025. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
-- [*Chow rings of Hurwitz spaces with marked ramification*](https://arxiv.org/abs/2505.04903), (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025. To appear in Annali della Scuola Normale Superiore di Pisa, Classe di Scienze.
+- [*Chow rings of Hurwitz spaces with marked ramification*](https://arxiv.org/abs/2505.04903), (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025. To appear in *Annali della Scuola Normale Superiore di Pisa, Classe di Scienze*.
 
 ## Publications
 
