@@ -9,7 +9,7 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 ## Research Interests
 
 - **Algebraic Geometry:** Intersection theory on moduli of curves and Hurwitz spaces, Equivariant Intersection Theory
-- **Toric Geometry:** Weak Fano toric varieties, quasiprojective toric varieties, Chow quotients of toric varieties
+- **Toric Geometry:** Weak Fano toric varieties, non-projective toric varieties, Chow quotients of toric varieties
 
 ## Recent Activities
 
