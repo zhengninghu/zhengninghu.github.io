@@ -18,11 +18,11 @@ I am a Postdoctoral Research Associate at the University of Arizona since August
 
 ## Preprints
 
-- [*Classifying weak Fano toric varieties of Picard rank three*](https://arxiv.org/abs/2506.00715), (joint with Rohan Joshi), 2025. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
-- [*Chow rings of Hurwitz spaces with marked ramification*](https://arxiv.org/abs/2505.04903), (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025. To appear in *Annali della Scuola Normale Superiore di Pisa, Classe di Scienze*.
+- [*Classifying weak Fano toric varieties of Picard rank three*](https://arxiv.org/abs/2506.00715), (joint with Rohan Joshi), 2025. In revision. [<span style="color:Salmon">GitHub repository</span>](https://github.com/rohansjoshi/Weak-Fanos)
 
 ## Publications
 
+- [*Chow rings of Hurwitz spaces with marked ramification*](https://arxiv.org/abs/2505.04903), (joint with Emily Clader, Hannah Larson, Amy Li and Rose Lopez), 2025. To appear in *Annali della Scuola Normale Superiore di Pisa, Classe di Scienze*. [<span style="color:Salmon">Journal</span>](https://doi.org/10.2422/2036-2145.202505_025)
 - [*The $K$-theory of the moduli stacks $\mathcal{M}_2$ and $\overline{\mathcal{M}}_2$*](https://arxiv.org/abs/2311.12122), (joint with Dan Edidin). manuscripta math. 175, 1063–1084 (2024). [<span style="color:Salmon">Journal</span>](https://doi.org/10.1007/s00229-024-01581-z)
 - [*The integral Chow rings of the stacks of hyperelliptic Weierstrass points*](https://arxiv.org/abs/2208.00556), (joint with Dan Edidin). Michigan Math. J. Advance Publication 1 - 23, 2025. [<span style="color:Salmon">Journal</span>](https://doi.org/10.1307/mmj/20236479)
 - [*Chow classes of divisors on stacks of pointed hyperelliptic curves*](https://arxiv.org/abs/2103.11259), (joint with Dan Edidin). Ann. Sc. Norm. Super. Pisa Cl. Sci. (5) 25 (2024), no.1, 217–240. [<span style="color:Salmon">Journal</span>](https://journals.sns.it/index.php/annaliscienze/article/view/5856)
