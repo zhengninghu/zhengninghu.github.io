@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Research Associate at the University of Arizona since August 2023. I received my PhD from University of Missouri-Columbia in May 2023, under the supervision of [Dan Edidin](https://math.missouri.edu/people/faculty/edidin).
+I am a Postdoctoral Researcher at Universidade Estadual de Campinas (Unicamp) since September 2026.
+Previously, I was a Postdoctoral Research Associate at the University of Arizona during 2023-2026.
+I received my PhD from University of Missouri-Columbia in May 2023, under the supervision of [Dan Edidin](https://math.missouri.edu/people/faculty/edidin).
 
 ## Research Interests
 
 - **Algebraic Geometry:** Intersection theory on moduli of curves and Hurwitz spaces, Equivariant Intersection Theory
-- **Toric Geometry:** Weak Fano toric varieties, non-projective toric varieties, Chow quotients of toric varieties
+- **Toric Geometry:** Weak Fano toric varieties, quasiprojective toric varieties, Chow quotients of toric varieties
 
 ## Recent Activities
 
