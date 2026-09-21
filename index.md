@@ -15,6 +15,7 @@ I received my PhD from University of Missouri-Columbia in May 2023, under the su
 
 ## Recent Activities
 
+- **[Nov. 2026]** Campinas-São Carlos Algebra and Geometry meeting
 - **[July. 2025]** 2025 Summer Research Institute in Algebraic Geometry
 - **[May. 2025]** The 2025 AWM Research Symposium, University of Wisconsin-Madison
 
