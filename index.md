@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Researcher at Universidade Estadual de Campinas (Unicamp) since September 2026.
-Previously, I was a Postdoctoral Research Associate at the University of Arizona during 2023-2026.
-I received my PhD from University of Missouri-Columbia in May 2023, under the supervision of [Dan Edidin](https://math.missouri.edu/people/faculty/edidin).
+I am a Postdoctoral Researcher at [<span style="color:Salmon">Universidade Estadual de Campinas (Unicamp)</span>](https://www.ime.unicamp.br/) since September 2026.
+Previously, I was a Postdoctoral Research Associate at the [<span style="color:Salmon">University of Arizona</span>](https://www.math.arizona.edu/) during 2023-2026.
+I received my PhD from [<span style="color:Salmon">University of Missouri-Columbia</span>](https://math.missouri.edu/) in May 2023, under the supervision of [Dan Edidin](https://math.missouri.edu/people/faculty/edidin).
 
 ## Research Interests
 
