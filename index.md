@@ -16,7 +16,8 @@ I received my PhD from [<span style="color:Salmon">University of Missouri-Columb
 ## Recent Activities
 
 - **[Mar. 2027]** LEGAL 2027, Sítio Assunção, em Teresópolis - RJ
-- **[Nov. 2026]** Campinas-São Carlos Algebra and Geometry meeting
+- **[Feb. 2027]** II Brazilian Centre for Geometry Workshop, IMECC/UNICAMP, Campinas - SP
+- **[Nov. 2026]** Campinas-São Carlos Algebra and Geometry meeting, ICMC/USP, São Carlos - SP
 - **[July. 2025]** 2025 Summer Research Institute in Algebraic Geometry
 - **[May. 2025]** The 2025 AWM Research Symposium, University of Wisconsin-Madison
 
